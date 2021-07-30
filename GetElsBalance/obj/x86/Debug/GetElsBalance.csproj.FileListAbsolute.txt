@@ -1,0 +1,4 @@
+Y:\dev\csharp\GetElsBalance\GetElsBalance\GetElsBalance\bin\Debug\GetElsBalance.exe
+Y:\dev\csharp\GetElsBalance\GetElsBalance\GetElsBalance\bin\Debug\GetElsBalance.pdb
+Y:\dev\csharp\GetElsBalance\GetElsBalance\GetElsBalance\obj\x86\Debug\GetElsBalance.exe
+Y:\dev\csharp\GetElsBalance\GetElsBalance\GetElsBalance\obj\x86\Debug\GetElsBalance.pdb
